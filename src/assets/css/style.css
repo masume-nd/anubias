@@ -21,8 +21,8 @@ html {
 }
 
 body {
-    background: #272c34;
-    color: #eeeeee;
+    background: #1e304d;
+    color: #ffffff;
     font-family: Vazir, tahoma, serif;
     overflow-x: hidden;
     -webkit-user-select: none; /* Chrome 49+ */
@@ -45,7 +45,7 @@ a:hover {
 }
 
 input {
-    color: #eeeeee;
+    color: #cccccc;
 }
 
 input::placeholder {
@@ -53,7 +53,7 @@ input::placeholder {
 }
 
 label {
-    color: #eeeeee !important;
+    color: #cccccc !important;
 }
 
 blockquote {
